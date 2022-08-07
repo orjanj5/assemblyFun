@@ -1,7 +1,8 @@
 ; countFinalWord.asm
 
-; Author: Orjan Johansen
-; Date: 29.07.2022
+; Author:			Orjan Johansen
+; Date:				29.07.2022
+; Modified date:	07.08.2022
 
 section .text		; main, code to be run
 	global _start

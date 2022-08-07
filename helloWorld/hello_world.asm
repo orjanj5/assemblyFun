@@ -1,7 +1,8 @@
 ; hello_world.asm
 
-; Author: 	Orjan Johansen
-; Date: 	26.07.2022
+; Author:			Orjan Johansen
+; Creation date:	26.07.2022
+; Modified date:	07.08.2022
 
 global _start
 
