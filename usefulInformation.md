@@ -1,4 +1,4 @@
-# documentationLocations.md
+# usefulInformation.md
 
 ## Author: Orjan Johansen
 ## Creation date: 07.08.2022
