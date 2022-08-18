@@ -1,0 +1,4 @@
+this is line 1
+this is line 2
+
+there was an empty line, then this is line 4
